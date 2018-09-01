@@ -1,5 +1,5 @@
 # Boilerplate-knex
-A boilerplate set up repo to create a empty NodeJS, ExpressJS, Express-Handlebars, KnexJS, Jest and Supertest project with file and folder structure and dependencies. 
+A boilerplate set up repo to create a empty NodeJS, ExpressJS, KnexJS, Jest and Supertest project with file and folder structure and dependencies to support any frontend frameworks. 
 
 # Installation
 1. Clone down the repository into your project folder `git clone https://github.com/rous6026nz/boilerplate-knex [your project folder]`.

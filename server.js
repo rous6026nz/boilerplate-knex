@@ -8,7 +8,6 @@
     *** BASE DEPENDENCIES ***
     - Path
     - Express
-    - Express Handlebars
     - Application routes
 
     *** CUSTOM DEPENDENCIES ***

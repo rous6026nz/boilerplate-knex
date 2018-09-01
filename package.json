@@ -1,7 +1,7 @@
 {
   "name": "zaine-boilerplate-knex",
   "version": "1.0.0",
-  "description": "A boilerplate set up repo to create a empty NodeJS, ExpressJS, Express-Handlebars, KnexJS, Jest and Supertest project with file and folder structure and dependencies.",
+  "description": "A boilerplate set up repo to create a empty NodeJS, ExpressJS, KnexJS, Jest and Supertest project with file and folder structure and dependencies.",
   "main": "index.js",
   "repository": "https://github.com/rous6026nz/boilerplate-knex.git",
   "author": "Zaine Kingi <rous6026nz@gmail.com>",
@@ -9,7 +9,6 @@
   
   "dependencies": {
     "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
     "knex": "^0.15.2"
   },
   "devDependencies": {
